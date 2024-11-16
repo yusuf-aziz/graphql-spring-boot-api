@@ -16,21 +16,18 @@ A modern and efficient **GraphQL API** built using **Spring Boot**, designed to 
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/yusuf-aziz/graphql-spring-boot-api.git
-   cd graphql-spring-boot-api
+   cd graphql-spring-boot-api ```
    
-   
-
 2. **Build the Project**:
    ```bash
-   mvn clean install
+   mvn clean install```
    
   
   
-   
-   
+  
 3. **Run the Application**:
    ```bash
-   mvn spring-boot:run
+   mvn spring-boot:run```
    
  
    
